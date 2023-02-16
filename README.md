@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at @Wealthbox as a Principal Engineer
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: [@jpcamara](https://www.linkedin.com/in/jpcamara/)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jpcamara&theme=dark)](https://git.io/streak-stats)
 
 <!--
