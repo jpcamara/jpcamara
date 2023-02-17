@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at @Wealthbox as a Principal Engineer
+- ✏️ I write technical posts over at [jpcamara.com](http://www.jpcamara.com/)
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: [@jpcamara](https://www.linkedin.com/in/jpcamara/)
 
