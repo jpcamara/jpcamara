@@ -4,8 +4,7 @@
 - ✏️ I write technical posts over at [jpcamara.com](http://www.jpcamara.com/)
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: [@jpcamara](https://www.linkedin.com/in/jpcamara/)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jpcamara&theme=dark)](https://git.io/streak-stats)
+- ⚡ Fun fact: My first paid, career, production deployed code was written in z/OS Assembler and COBOL. That was as an intern during my senior year of college in 2007 (just in case reading that made you think it was more like 1987, when I would have been 2 😉).
 
 <!--
 **jpcamara/jpcamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
