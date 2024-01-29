@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at @Wealthbox as a Principal Engineer
 - ✏️ I write technical posts over at [jpcamara.com](http://www.jpcamara.com/)
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C
 - 📫 How to reach me: [@jpcamara](https://www.linkedin.com/in/jpcamara/)
 - ⚡ Fun fact: My first paid, career, production deployed code was written in z/OS Assembler and COBOL. That was as an intern during my senior year of college in 2007 (just in case reading that made you think it was more like 1987, when I would have been 2 😉).
 
